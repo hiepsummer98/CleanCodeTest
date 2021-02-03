@@ -23,12 +23,12 @@
 
 #### 4. Trong 4 đề xuất cho phương thức tính lương thì đề xuất của Vân là phù hợp với quy ước trong CleanCode.
 
-#### 5. [Mã nguồn phần 1](https://github.com/hiepsummer98/CleanCode_TestHomeWork/tree/main/sourcecode/phan1)
+#### 5. [src phần 1](https://github.com/hiepsummer98/CleanCodeTest/tree/master/sourcecode/phan1)
 
-### Phần 2: [Mã nguồn phần 2](https://github.com/hiepsummer98/CleanCode_TestHomeWork/tree/main/sourcecode/phan2)
-### Phần 3: [Mã nguồn phần 3](https://github.com/hiepsummer98/CleanCode_TestHomeWork/tree/main/sourcecode/phan3)
-### Phần 4: [Mã nguồn phần 4](https://github.com/hiepsummer98/CleanCode_TestHomeWork/tree/main/sourcecode/phan4)
-### Phần 5: [Mã nguồn phần 5](https://github.com/hiepsummer98/CleanCode_TestHomeWork/tree/main/sourcecode/phan5)
+### Phần 2: [src phần 2](https://github.com/hiepsummer98/CleanCodeTest/tree/master/sourcecode/phan2)
+### Phần 3: [src phần 3](https://github.com/hiepsummer98/CleanCodeTest/tree/master/sourcecode/phan3)
+### Phần 4: [src phần 4](https://github.com/hiepsummer98/CleanCodeTest/tree/master/sourcecode/phan4)
+### Phần 5: [src phần 5](https://github.com/hiepsummer98/CleanCodeTest/tree/master/sourcecode/phan5)
 
 ## Trắc nghiệm
 1. Điều nào không đúng khi nói về Design Pattern?
